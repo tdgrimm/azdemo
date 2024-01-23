@@ -1,0 +1,7 @@
+C:\Users\Terry.Grimm\AppData\Local\Temp\azd1380158828\web.exe
+C:\Users\Terry.Grimm\AppData\Local\Temp\azd1380158828\appsettings.Development.json
+C:\Users\Terry.Grimm\AppData\Local\Temp\azd1380158828\appsettings.json
+C:\Users\Terry.Grimm\AppData\Local\Temp\azd1380158828\web.dll
+C:\Users\Terry.Grimm\AppData\Local\Temp\azd1380158828\web.deps.json
+C:\Users\Terry.Grimm\AppData\Local\Temp\azd1380158828\web.runtimeconfig.json
+C:\Users\Terry.Grimm\AppData\Local\Temp\azd1380158828\web.pdb
